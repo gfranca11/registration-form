@@ -2,7 +2,7 @@
 
 
 
-<img src="css1.png" alt="Formulario">
+<img src="Capturar.PNG" alt="Formulario">
 
 > Formulario simples de cadastro feito com HTML CSS.
 
