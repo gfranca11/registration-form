@@ -1,0 +1,50 @@
+@charset  "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;;
+}
+body{
+    background-color:  seagreen;
+    border: 2px solid #04D41A
+
+
+}
+input{
+    border: 2px solid lightgreen;
+}
+legend{
+    text-align: center;
+    font-size: 30px;
+    color: #04D41A;
+}
+label{
+    display: block;
+}
+.first{
+display: block;
+margin-bottom: 20px;
+}
+.second{
+    display: block;
+margin-bottom: 20px;
+}
+p{
+    margin-top: 20px;
+    
+}
+.button{
+    display: inline;
+    margin-top: 15px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: greenyellow;
+    color: lightgreen;
+    border: 2px solid blue;
+    height: 20px;
+    height: 20px;
+    
+
+}
