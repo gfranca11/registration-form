@@ -1,22 +1,39 @@
-## Formulario Simples
+<h1 align="center">
+     📰
+TELA DE CADASTRO
 
+</h1>
 
+<h5 align="center">
+  Tela  de cadastro feita para treinar  meus conhecimentos em HTML CSS .
+  </h5>
 
-<img src="Capturar.PNG" alt="Formulario">
+## 🖥 Antevisão 
+<img src="https://github.com/gfranca11/registration-form/blob/main/Capturar.PNG" alt="Formulario">
+ 
+ 📌 Ajustes e melhorias
+ 
+ - [ ] ADICONAR JAVASCRIPT
+ 
 
-> Formulario simples de cadastro feito com HTML CSS.
+ 
+ 
+ ## 🧐 Gostou ?
+ 
+ > Clone o repositório e de sua estrelinha ;]
+   
+        $ git https://github.com/gfranca11/registration-form
+        $ cd registration-form
+        
+ 
+ 
+## 💻 Tecnologias utilizadas
 
-### Ajustes e melhorias
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+ * Visual Studio Code (Editor de código);
 
-- [x] HTML
-- [x] CSS
-- [ ] JAVASCRIPT
+* HTML;
 
+* CSS;
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-Geovani França
-    
-    Formulario de cadastro simples feito com HTML E CSS as proximas atualizaçoes sera adicionado javascript
