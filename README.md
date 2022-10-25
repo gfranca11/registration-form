@@ -22,7 +22,7 @@ TELA DE CADASTRO
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ git https://github.com/gfranca11/registration-form
+        $ git clone https://github.com/gfranca11/registration-form
         $ cd registration-form
         
  
